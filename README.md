@@ -1,2 +1,2 @@
-# Servicenow-Clear-Journal-Audit
+# ServiceNow-Clear-Journal-Audit
 Wipes run away records Journal and Audit History
